@@ -22,4 +22,5 @@ jobs:
       - checkout
       # specify any bash command here prefixed with `run: `
       - run: go get
+      - run: GO111MODULE=off go get github.com/stretchr/testify
       - run: go test ./...
