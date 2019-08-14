@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/rockspoon/testsCI/model"
+	"github.com/Khamliuk/testsCI/model"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/rockspoon/testsCI/controller"
-	"github.com/rockspoon/testsCI/handler"
-	"github.com/rockspoon/testsCI/mongo"
+	"github.com/Khamliuk/testsCI/controller"
+	"github.com/Khamliuk/testsCI/handler"
+	"github.com/Khamliuk/testsCI/mongo"
 )
 
 func main() {

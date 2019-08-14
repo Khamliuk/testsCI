@@ -3,7 +3,7 @@ package controller
 import (
 	"context"
 
-	"github.com/rockspoon/testsCI/model"
+	"github.com/Khamliuk/testsCI/model"
 	"github.com/stretchr/testify/mock"
 )
 

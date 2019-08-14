@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/rockspoon/testsCI/model"
+	"github.com/Khamliuk/testsCI/model"
 )
 
 type Controller struct {

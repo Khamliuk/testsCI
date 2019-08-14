@@ -1,4 +1,4 @@
-module github.com/rockspoon/testsCI
+module github.com/Khamliuk/testsCI
 
 go 1.12
 

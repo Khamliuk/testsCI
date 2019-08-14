@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/rockspoon/testsCI/model"
+	"github.com/Khamliuk/testsCI/model"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

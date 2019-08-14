@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
+	"github.com/Khamliuk/testsCI/model"
 	"github.com/gorilla/mux"
-	"github.com/rockspoon/testsCI/model"
 )
 
 type Service interface {
