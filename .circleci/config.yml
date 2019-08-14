@@ -20,8 +20,6 @@ jobs:
     working_directory: /go/src/github.com/Khamliuk/testsCI
     steps:
       - checkout
-
       # specify any bash command here prefixed with `run: `
-      - run: export GO111MODULE=on
       - run: go get
       - run: go test ./...
